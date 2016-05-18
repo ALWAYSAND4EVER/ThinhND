@@ -94,9 +94,7 @@ int main() {
 	ll c = 5;
 	cout << a << " + " << b << " = " << add(a,b) << endl;
 	cout << a << " * " << b << " = " << multiply(a,b) << endl;
-	cout << a << " - " << b << " = " << tru(a,b) << endl;
-	cout << a << " / " << b << " = " << chia(b,a) << endl;
-	cout << "Giai thua cua " << c << " la :" << giaithua(c) << endl;
+
 	return 0;
 }
 
