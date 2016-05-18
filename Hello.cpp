@@ -1,11 +1,4 @@
-//============================================================================
-// Name        : Hello.cpp
-// Author      : HoaNP
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
+// hehe
 #include <iostream>
 using namespace std;
 
